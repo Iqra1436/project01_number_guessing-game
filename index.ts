@@ -6,6 +6,7 @@ import inquirer from "inquirer";
 // 3) Compareuser input with computer generated number show results
 
 const randomNumber = Math.floor(Math.random() * 6 +1 );
+console.log(randomNumber);
 
 const answers = await inquirer.prompt([
     {
