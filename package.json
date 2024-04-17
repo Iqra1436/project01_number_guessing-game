@@ -1,5 +1,5 @@
 {
-  "name": "@iqrajahangir/project01_number_guessing-game",
+  "name": "@iqrajahangir/project_01_number_guessing-game",
   "version": "1.0.2",
   "description": "This guess the number game is a short TypeScript/Node.js project ",
   "main": "index.js",
